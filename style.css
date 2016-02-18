@@ -1,0 +1,128 @@
+html,div,ul,li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+/*------------Global-------------*/
+
+/*html,body{*/
+	/*width:100%;*/
+	/*height: 100%;*/
+	/*height:600px;*/
+	/*position: absolute;*/
+	/*background: white;*/
+
+/*}*/
+
+
+.body{
+	width:90%;
+	height: 100%;
+	height:600px;
+	position: absolute;
+	background: white;
+}
+
+/*Plot------- style*/
+
+#plot1{
+	width:650px;
+	/*width:100%;*/
+	position:absolute;
+	left:100px;
+	/*padding: 0 0 0 10px;*/
+	/*right:300px;*/
+	top:10px;
+	background:white;
+}
+/*.intro{  font-size: 10px;*/
+	/*font-family:Verdana;*/
+	/*color:grey;}*/
+h1{ font-size:25px;
+	font-family:Verdana-bold;
+	/*background: darkred;*/
+	color:black;
+	line-height:200%;
+	}
+
+#plot3{
+	width:490px;
+	position:absolute;
+	left:700px;
+	/*right:300px;*/
+	top:18px;
+	background:white;
+}
+h4{font-size:10px;
+	font-family:Verdana;
+	background: white;
+	color:dimgrey;
+	line-height:150%;
+	/*text-align:center;*/
+
+}
+
+#plot4{
+	width:600px;
+	position:absolute;
+	left:100px;
+	/*right:300px;*/
+	top:120px;
+}
+h2{
+	font-size: 20px;
+	color:black;
+	font-family: Verdana-bold;
+	line-height:200%;
+	/*text-align:center;*/
+}
+
+#plot5{
+	width:490px;
+	position:absolute;
+	left:700px;
+	/*right:300px;*/
+	top:120px;
+}
+h3{
+	font-size: 20px;
+	color:black;
+	font-family: Verdana-bold;
+	line-height:200%;
+
+	/*text-align:center;*/
+}
+
+/*--------svg---------*/
+#plot{
+	position:absolute;
+	left:100px;
+	top:200px;
+	width:45%;
+	/*width:100%*/
+}
+#plot2{
+	width:45%;
+	position:absolute;
+	left:700px;
+	top:200px;
+
+}
+/**/
+
+/*------------font-------------*/
+
+
+/*------------svg--------------*/
+
+
+svg text{
+	font-family:Futura;
+    font-size:9px;
+}
+
+
+/*-----------tooltip-----------*/
+
+
