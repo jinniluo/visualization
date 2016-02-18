@@ -58,8 +58,8 @@ queue()
     .await(dataLoaded);
 //dataLoaded
 function dataLoaded(err,Table1,Table2) {
-  draw1(Table1)
-  draw2(Table2)
+  draw1(Table1);
+  draw2(Table2);
 
 }
 
