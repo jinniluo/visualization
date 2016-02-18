@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96d011c-48d8-4580-841b-91f70bb450a4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Table1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/Table2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/script/another.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f96d011c-48d8-4580-841b-91f70bb450a4" name="Default" comment="" />
     <ignored path="visualization.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
